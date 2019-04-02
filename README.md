@@ -1,3 +1,6 @@
+## POINTS: 1.0
+## KEY: Member routes work great but missing the Guest routes. Check requirements in README. 
+
 # Express basics - Routing/Router and Modules
 
 ### Create an Express web application. 
